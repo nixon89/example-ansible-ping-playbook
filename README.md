@@ -1,0 +1,1 @@
+# example-ansible-ping-playbook
