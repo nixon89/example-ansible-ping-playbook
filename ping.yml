@@ -6,3 +6,6 @@
 
   - name: Test ping module
     ping:
+
+  - name: Another ping module
+    ping:
